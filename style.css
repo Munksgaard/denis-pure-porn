@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, sans-serif;
+    color: #383838
+}
+
+h1 {
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+div.denis-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    width: 550px;
+}
+
+div.denis-img img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+div.denis-img p {
+    margin-top: 8px;
+}
+
